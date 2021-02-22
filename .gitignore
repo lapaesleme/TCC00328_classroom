@@ -1,0 +1,11 @@
+*.class
+*.log
+*.zip
+reset
+**/target/
+**/classes/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
